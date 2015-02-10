@@ -3,7 +3,7 @@
 //comment from original file
 //staged
 
-
+//difference
 class NewClass
 {
 }
