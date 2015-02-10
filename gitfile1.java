@@ -1,10 +1,8 @@
 //comment added from clone file
-//comment to be deleted
-//comment from original file
-//staged
-
-//difference
+//2nd comment added from clone
+//commet added
 class NewClass
 {
+
 }
 
