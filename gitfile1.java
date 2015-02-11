@@ -3,7 +3,7 @@
 //commet added
 //:/
 class NewClass
-{ahahhahhaahhahahha
+{bewakuuuf
  public static void main(){}
 }
 
