@@ -4,6 +4,6 @@
 //:/
 class NewClass
 {
-
+ public static void main(){}
 }
 
